@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\INDIA\Desktop\table.xsl"?>
+<teamlist>
+  <team>
+    <Sr.no> 1. </Sr.no>
+    <Name> RR </Name>
+    <Match> 4 </Match>
+    <Win> 3 </Win>
+    <Lose> 1 </Lose>
+    <NRR> +1.588 </NRR>
+    <Points> 6 </Points>
+  </team>
+  <team>
+    <Sr.no> 2. </Sr.no>
+    <Name> LSG </Name>
+    <Match> 4 </Match>
+    <Win> 3 </Win>
+    <Lose> 1 </Lose>
+    <NRR> +1.048 </NRR>
+    <Points> 6 </Points>
+  </team>
+  <team>
+    <Sr.no> 3. </Sr.no>
+    <Name> KKR </Name>
+    <Match> 3 </Match>
+    <Win> 2 </Win>
+    <Lose> 1 </Lose>
+    <NRR> +1.375 </NRR>
+    <Points> 4 </Points>
+  </team>
+  <team>
+    <Sr.no> 4. </Sr.no>
+    <Name> GT </Name>
+    <Match> 3 </Match>
+    <Win> 2 </Win>
+    <Lose> 1 </Lose>
+    <NRR> +0.431 </NRR>
+    <Points> 4 </Points>
+  </team>
+  <team>
+    <Sr.no> 5. </Sr.no>
+    <Name> CSK </Name>
+    <Match> 4 </Match>
+    <Win> 2 </Win>
+    <Lose> 2 </Lose>
+    <NRR> +0.225 </NRR>
+    <Points> 4 </Points>
+  </team>
+  <team>
+    <Sr.no> 6. </Sr.no>
+    <Name> PBKS </Name>
+    <Match> 3 </Match>
+    <Win> 2 </Win>
+    <Lose> 1 </Lose>
+    <NRR> -0.281 </NRR>
+    <Points> 4 </Points>
+  </team>
+  <team>
+    <Sr.no> 7. </Sr.no>
+    <Name> RCB </Name>
+    <Match> 3 </Match>
+    <Win> 1 </Win>
+    <Lose> 2 </Lose>
+    <NRR> -0.800 </NRR>
+    <Points> 2 </Points>
+  </team>
+  <team>
+    <Sr.no> 8. </Sr.no>
+    <Name> MI </Name>
+    <Match> 3 </Match>
+    <Win> 1 </Win>
+    <Lose> 2 </Lose>
+    <NRR> -0.879 </NRR>
+    <Points> 2 </Points>
+  </team>
+  <team>
+    <Sr.no> 9. </Sr.no>
+    <Name> SRH </Name>
+    <Match> 3 </Match>
+    <Win> 1 </Win>
+    <Lose> 2 </Lose>
+    <NRR> -1.502 </NRR>
+    <Points> 2 </Points>
+  </team>
+  <team>
+    <Sr.no> 10. </Sr.no>
+    <Name> DC </Name>
+    <Match> 4 </Match>
+    <Win> 0 </Win>
+    <Lose> 4 </Lose>
+    <NRR> -1.576 </NRR>
+    <Points> 0 </Points>
+  </team>
+</teamlist>
