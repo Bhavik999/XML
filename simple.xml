@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\OM\Desktop\simple.xsl"?>
+<booklist>
+    <book>
+        <Sr.no> 1. </Sr.no>
+        <Nameofbook> abc </Nameofbook>
+        <price> 150 </price>
+    </book>
+    <book>
+        <Sr.no> 2. </Sr.no>
+        <Nameofbook> cde </Nameofbook>
+        <price> 200 </price>
+    </book>
+    <book>
+        <Sr.no> 3. </Sr.no>
+        <Nameofbook> fgh </Nameofbook>
+        <price> 175 </price>
+    </book>
+    <book>
+        <Sr.no> 4. </Sr.no>
+        <Nameofbook> ijk </Nameofbook>
+        <price> 225 </price>
+    </book>
+    <book>
+        <Sr.no> 5. </Sr.no>
+        <Nameofbook> lmn </Nameofbook>
+        <price> 300 </price>
+    </book>
+</booklist>
